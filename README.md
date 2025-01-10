@@ -1,10 +1,10 @@
 # scraping_project
 
-this folder contains
---index.html
---app.py
---msedgedriver.exe
---README
+this folder contains--
+index.html
+app.py
+msedgedriver.exe
+README
 
 Open in edge browser
 on one tab log into your twitter account
